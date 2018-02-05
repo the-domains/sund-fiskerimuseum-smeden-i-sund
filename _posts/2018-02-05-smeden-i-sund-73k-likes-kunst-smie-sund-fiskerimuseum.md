@@ -2,9 +2,9 @@
 author:
   - avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b034fa5ef9d7174c980eff4932fca383/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft1.0-1%2Fp200x200%2F26814732_1681816525172619_6358619518223265240_n.jpg%3Foh%3D3f4355ca9c945fb736acd05ad407c037%26oe%3D5B19D9C0
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/af78c48321800143378a338edc7710f7cf3e5789.jpg
       original: >-
-        https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/26814732_1681816525172619_6358619518223265240_n.jpg?oh=3f4355ca9c945fb736acd05ad407c037&oe=5B19D9C0
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b034fa5ef9d7174c980eff4932fca383/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft1.0-1%2Fp200x200%2F26814732_1681816525172619_6358619518223265240_n.jpg%3Foh%3D3f4355ca9c945fb736acd05ad407c037%26oe%3D5B19D9C0
       width: 200
       height: 200
       colors:
@@ -44,13 +44,13 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/SmedeniSund/'
-datePublished: '2018-02-05T13:02:27.692Z'
-dateModified: '2018-02-05T13:02:22.862Z'
-datePublishedOriginal: '2018-02-05T13:02:27.692Z'
+datePublished: '2018-02-05T13:06:55.282Z'
+dateModified: '2018-02-05T13:06:55.006Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-02-05-smeden-i-sund-73k-likes-kunst-smie-sund-fiskerimuseum.md
+starred: false
+datePublishedOriginal: '2018-02-05T13:02:27.692Z'
 _type: Photograph
 _context: 'http://schema.org'
 
