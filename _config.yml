@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Sund Fiskerimuseum / Smeden i Sund
+name: Sund Fiskerimuseum
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -55,6 +55,6 @@ purpose:
     label: Mail
 github: true
 author:
-  name: Tommy Johansen
+  name: Smeden i Sund
   email: sund.fiskerimuseum@gmail.com
   url: 'https://www.facebook.com/SmedeniSund/'
