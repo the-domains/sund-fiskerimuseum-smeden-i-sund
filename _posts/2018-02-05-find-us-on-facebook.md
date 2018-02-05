@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: '-> Facebook'
-dateModified: '2018-02-05T13:28:06.240Z'
-datePublished: '2018-02-05T13:28:06.769Z'
+description: Facebook
+dateModified: '2018-02-05T13:30:40.964Z'
+datePublished: '2018-02-05T13:30:41.641Z'
 title: Find us on Facebook
 author: []
 publisher: {}
@@ -17,6 +17,6 @@ _type: Blurb
 
 ## Find us on Facebook
 
-[-\> Facebook][0]
+[Facebook][0]
 
 [0]: https://www.facebook.com/SmedeniSund/
