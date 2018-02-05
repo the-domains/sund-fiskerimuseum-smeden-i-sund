@@ -1,0 +1,60 @@
+layout_spectrum: 0.3685063761948506
+typography_spectrum: 0.2122707436680978
+color:
+  brandStrength: 0.04113154333407557
+  lightness: 0.3503375771183447
+  saturation: 0.7080567221572198
+  rhythmicContrast: 0.5749428813675842
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Sund Fiskerimuseum / Smeden i Sund
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab2b27f-5129-4c27-b78f-aba7c77bc586.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab2b27f-5129-4c27-b78f-aba7c77bc586.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 'Smeden I Sund '
+description: 'The Authentic Rough Diamond Of Lofoten  '
+purpose:
+  - type: phone
+    url: 'tel:004791371718'
+    label: Phone Booking
+  - type: contact
+    url: 'mailto:sund.fiskerimuseum@gmail.com'
+    label: Mail
+github: true
+author:
+  name: Tommy Johansen
+  email: sund.fiskerimuseum@gmail.com
+  url: 'https://www.facebook.com/SmedeniSund/'
