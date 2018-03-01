@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-01T11:27:34.098Z'
-datePublished: '2018-03-01T11:27:35.149Z'
+dateModified: '2018-03-01T11:35:15.596Z'
+datePublished: '2018-03-01T11:35:16.393Z'
 title: The Blacksmith of Sund
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: the-blacksmith-of-sund/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7284e2f1897fde69460ccc94f4ecc2e0/croprotate.jpg?cropheight=3956&cropwidth=5548&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6de9b582-bed2-4ff7-99c1-f6a7126bfce5.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ea249c-8816-4aee-9ecf-25ce10edb023.jpg)
 
 # **The Blacksmith of Sund**
 
