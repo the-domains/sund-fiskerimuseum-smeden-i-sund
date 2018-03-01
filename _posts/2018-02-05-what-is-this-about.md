@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-01T11:25:08.154Z'
-datePublished: '2018-03-01T11:25:08.912Z'
+dateModified: '2018-03-01T11:27:34.098Z'
+datePublished: '2018-03-01T11:27:35.149Z'
 title: The Blacksmith of Sund
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ There is something reminiscent of a fairy tale about the story of one of Lofoten
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e8312b-10b8-498d-b1bf-3aa7e1168e28.jpg)
 
 Today, Tor-Vegard Mørkved is the Blacksmith of Sund. In the summer of 1987 he was taken in on trial as Hans Gjertsen's protégé. Hans soon realised that Tor-Vegard had the necessary guts and aptitude for the blacksmith trade, and as early as autumn 1987, he offered him an apprenticeship with the prospect of taking over the business at a later date. Hans was then 70 years old and had 40 years of experience behind him as the blacksmith of Sund. In June 1989, Tor-Vegard took over the running of the smithy and later the same year he passed his blacksmith's exams. Tor-Vegard and Hans worked together for several years; Hans Gjertsen was active almost right up until he passed away in 2006\. This close collaboration led to a seamless transition in the artistic and storytelling traditions at the smithy, with Tor-Vegard turning the continued operation of the smithy and museum into his lifework and calling.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a3ffdeb-7030-477b-a162-4117db01aeb0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30d89682-89a1-41f0-bc15-3969a9af8b73.jpg)
 
 The history of the museum is one of diversity. The keynote is the entertainment factor: conveyed by relating local history, often spiced up with a humorous fib or tall tale. Hans Gjertsen appreciated the value of showmanship and monkey business, a fact which often involved him exercising poetic license when talking about certain exhibits. If a story was lacking in some way, or potentially downright boring, the next time you paid a visit you might hear it delivered with a completely different twist. We seek to carry on this tradition as best we can. Our aim is to be a unique attraction, offering unique experiences.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5920a4b0-5c32-4ccf-89d1-3de560b37c09.jpg)
