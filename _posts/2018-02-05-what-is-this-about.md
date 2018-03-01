@@ -13,12 +13,11 @@ description: >-
   had been refused by the organisers. The King, on the other hand, was clearly
   rather curious about the voice that rang out above the crowd, uttering the
   words: "Excuse me King! Can I give you a cormorant?" The rest is history.
-dateModified: '2018-03-01T11:42:39.032Z'
-datePublished: '2018-03-01T11:42:39.655Z'
+dateModified: '2018-03-01T11:46:32.004Z'
+datePublished: '2018-03-01T11:46:52.226Z'
 title: The Blacksmith of Sund
 author: []
-publisher:
-  name: Sund Fiskerimuseum
+publisher: {}
 via: {}
 sourcePath: _posts/2018-02-05-what-is-this-about.md
 hasPage: true
@@ -31,6 +30,8 @@ _type: Article
 # **The Blacksmith of Sund**
 
 ---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6051498d-c16c-4c46-9fb7-b0b0d60cab9e.jpg)
 
 There is something reminiscent of a fairy tale about the story of one of Lofoten's oldest tourist attractions. Operations at the museum and the smithy have been kept as is since the two were established by Hans Gjertsen in 1947\. The official opening of the museum took place in 1964, but the groundwork was laid in 1963 with the opening of the E10 road (King Olav V's Way). As one of the pioneers of tourism in Lofoten, the blacksmith Hans Gjertsen carried out the marketing stunt of a lifetime during the opening ceremony. He literally forced his way through the crowd to King Olav V, in order to present him with his work of art, the Cormorant. Hans had asked for permission in advance, but had been refused by the organisers. The King, on the other hand, was clearly rather curious about the voice that rang out above the crowd, uttering the words: "Excuse me King! Can I give you a cormorant?" The rest is history.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e8312b-10b8-498d-b1bf-3aa7e1168e28.jpg)
