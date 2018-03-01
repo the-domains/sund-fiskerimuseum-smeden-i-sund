@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Smeden I Sund ]]></title>
-        <description><![CDATA[Smeden I Sund ]]></description>
+        <title><![CDATA[The Blacksmith Of Sund]]></title>
+        <description><![CDATA[The Blacksmith Of Sund]]></description>
         <link>https://thegrid.ai/sund-fiskerimuseum-smeden-i-sund/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Feb 2018 21:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Mar 2018 11:22:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sund-fiskerimuseum-smeden-i-sund/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Feb 2018 21:45:45 GMT</pubDate>
+        <pubDate>Thu, 01 Mar 2018 11:22:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Blacksmith of Sund]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7284e2f1897fde69460ccc94f4ecc2e0/croprotate.jpg?cropheight=3956&cropwidth=5548&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6de9b582-bed2-4ff7-99c1-f6a7126bfce5.jpg&x=0&y=0">,<h1><strong>The Blacksmith of Sund</strong></h1>]]></description>
+            <link>https://thegrid.ai/sund-fiskerimuseum-smeden-i-sund/the-blacksmith-of-sund/index.html</link>
+            <guid isPermaLink="false">3636a548-0b3b-4e3a-bd58-9904bfde7f9b</guid>
+            <pubDate>Thu, 01 Mar 2018 11:22:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kart]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d18778-9a78-4085-ba3a-7118241051e6.jpg">,<article><h1>Map</h1><p>So you can find your way</p></article>]]></description>
