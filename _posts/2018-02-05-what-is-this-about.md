@@ -13,8 +13,8 @@ description: >-
   had been refused by the organisers. The King, on the other hand, was clearly
   rather curious about the voice that rang out above the crowd, uttering the
   words: "Excuse me King! Can I give you a cormorant?" The rest is history.
-dateModified: '2018-03-01T13:04:41.378Z'
-datePublished: '2018-03-01T13:04:41.981Z'
+dateModified: '2018-03-01T14:00:09.259Z'
+datePublished: '2018-03-01T14:00:10.722Z'
 title: The Blacksmith of Sund
 author: []
 publisher: {}
@@ -27,9 +27,8 @@ url: the-blacksmith-of-sund/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/75595490f93d9f2f573b8abc1f23b649/croprotate.jpg?cropheight=3956&cropwidth=5548&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe45bcf52-418f-43eb-9b37-9ac93b8fb8e4.jpg&x=0&y=0)
-
 # **The Blacksmith of Sund**
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/75595490f93d9f2f573b8abc1f23b649/croprotate.jpg?cropheight=3956&cropwidth=5548&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe45bcf52-418f-43eb-9b37-9ac93b8fb8e4.jpg&x=0&y=0)
 
 There is something reminiscent of a fairy tale about the story of one of Lofoten's oldest tourist attractions. Operations at the museum and the smithy have been kept as is since the two were established by Hans Gjertsen in 1947\. The official opening of the museum took place in 1964, but the groundwork was laid in 1963 with the opening of the E10 road (King Olav V's Way). As one of the pioneers of tourism in Lofoten, the blacksmith Hans Gjertsen carried out the marketing stunt of a lifetime during the opening ceremony. He literally forced his way through the crowd to King Olav V, in order to present him with his work of art, the Cormorant. Hans had asked for permission in advance, but had been refused by the organisers. The King, on the other hand, was clearly rather curious about the voice that rang out above the crowd, uttering the words: "Excuse me King! Can I give you a cormorant?" The rest is history.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e8312b-10b8-498d-b1bf-3aa7e1168e28.jpg)
