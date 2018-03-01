@@ -13,11 +13,12 @@ description: >-
   had been refused by the organisers. The King, on the other hand, was clearly
   rather curious about the voice that rang out above the crowd, uttering the
   words: "Excuse me King! Can I give you a cormorant?" The rest is history.
-dateModified: '2018-03-01T12:45:48.303Z'
-datePublished: '2018-03-01T12:45:48.920Z'
+dateModified: '2018-03-01T12:53:22.187Z'
+datePublished: '2018-03-01T12:53:23.298Z'
 title: The Blacksmith of Sund
 author: []
-publisher: {}
+publisher:
+  name: Sund Fiskerimuseum
 via: {}
 sourcePath: _posts/2018-02-05-what-is-this-about.md
 hasPage: true
@@ -27,17 +28,15 @@ url: the-blacksmith-of-sund/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/38dafd701415e9e8b5868adee287865430231afc.jpg)
-
 # **The Blacksmith of Sund**
 
 There is something reminiscent of a fairy tale about the story of one of Lofoten's oldest tourist attractions. Operations at the museum and the smithy have been kept as is since the two were established by Hans Gjertsen in 1947\. The official opening of the museum took place in 1964, but the groundwork was laid in 1963 with the opening of the E10 road (King Olav V's Way). As one of the pioneers of tourism in Lofoten, the blacksmith Hans Gjertsen carried out the marketing stunt of a lifetime during the opening ceremony. He literally forced his way through the crowd to King Olav V, in order to present him with his work of art, the Cormorant. Hans had asked for permission in advance, but had been refused by the organisers. The King, on the other hand, was clearly rather curious about the voice that rang out above the crowd, uttering the words: "Excuse me King! Can I give you a cormorant?" The rest is history.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e8312b-10b8-498d-b1bf-3aa7e1168e28.jpg)
 
 Today, Tor-Vegard Mørkved is the Blacksmith of Sund. In the summer of 1987 he was taken in on trial as Hans Gjertsen's protégé. Hans soon realised that Tor-Vegard had the necessary guts and aptitude for the blacksmith trade, and as early as autumn 1987, he offered him an apprenticeship with the prospect of taking over the business at a later date. Hans was then 70 years old and had 40 years of experience behind him as the blacksmith of Sund. In June 1989, Tor-Vegard took over the running of the smithy and later the same year he passed his blacksmith's exams. Tor-Vegard and Hans worked together for several years; Hans Gjertsen was active almost right up until he passed away in 2006\. This close collaboration led to a seamless transition in the artistic and storytelling traditions at the smithy, with Tor-Vegard turning the continued operation of the smithy and museum into his lifework and calling.
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e8312b-10b8-498d-b1bf-3aa7e1168e28.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30d89682-89a1-41f0-bc15-3969a9af8b73.jpg)
 
 The history of the museum is one of diversity. The keynote is the entertainment factor: conveyed by relating local history, often spiced up with a humorous fib or tall tale. Hans Gjertsen appreciated the value of showmanship and monkey business, a fact which often involved him exercising poetic license when talking about certain exhibits. If a story was lacking in some way, or potentially downright boring, the next time you paid a visit you might hear it delivered with a completely different twist. We seek to carry on this tradition as best we can. Our aim is to be a unique attraction, offering unique experiences.
