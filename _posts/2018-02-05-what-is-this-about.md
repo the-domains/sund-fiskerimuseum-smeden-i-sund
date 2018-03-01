@@ -13,8 +13,8 @@ description: >-
   had been refused by the organisers. The King, on the other hand, was clearly
   rather curious about the voice that rang out above the crowd, uttering the
   words: "Excuse me King! Can I give you a cormorant?" The rest is history.
-dateModified: '2018-03-01T13:04:12.800Z'
-datePublished: '2018-03-01T13:04:13.858Z'
+dateModified: '2018-03-01T13:04:41.378Z'
+datePublished: '2018-03-01T13:04:41.981Z'
 title: The Blacksmith of Sund
 author: []
 publisher: {}
