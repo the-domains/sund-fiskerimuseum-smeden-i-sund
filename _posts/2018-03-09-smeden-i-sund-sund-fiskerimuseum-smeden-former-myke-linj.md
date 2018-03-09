@@ -18,8 +18,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://smedenisund.no'
 title: ''
-datePublished: '2018-03-09T08:40:52.983Z'
-dateModified: '2018-03-09T08:40:51.687Z'
+datePublished: '2018-03-09T19:24:14.345Z'
+dateModified: '2018-03-09T19:24:13.276Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-smeden-i-sund-sund-fiskerimuseum-smeden-former-myke-linj.md
@@ -31,4 +31,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5f4316f-1f36-459a-bed5-c09ff6864bf6.jpg)
 
-<article style=""><h1>SMEDEN I SUND - SUND FISKERIMUSEUM - smeden former myke linjer av hardt jern</h1><p>I Sund i Flakstad kommune, Lofoten - finner du et lite museum, som fungerer som en installasjon. Museet har hovedvekt på motorer og fiskerirelaterte gjenstander. I smia kan du oppleve smeden Tor-Vegard som tryller frem vakre skarver i ulike størrelser, men også andre skulpturer. Hovedproduktet er likevel Kongeskarven.</p></article>
+<article style=""><h1>SMEDEN I SUND  </h1><p>I Sund i Flakstad kommune, Lofoten - finner du et lite museum, som fungerer som en installasjon. Museet har hovedvekt på motorer og fiskerirelaterte gjenstander. I smia kan du oppleve smeden Tor-Vegard som tryller frem vakre skarver i ulike størrelser, men også andre skulpturer. Hovedproduktet er likevel Kongeskarven.</p></article>
