@@ -2,19 +2,9 @@
 inFeed: true
 description: >-
   There is something reminiscent of a fairy tale about the story of one of
-  Lofoten's oldest tourist attractions. Operations at the museum and the smithy
-  have been kept as is since the two were established by Hans Gjertsen in 1947.
-  The official opening of the museum took place in 1964, but the groundwork was
-  laid in 1963 with the opening of the E10 road (King Olav V's Way). As one of
-  the pioneers of tourism in Lofoten, the blacksmith Hans Gjertsen carried out
-  the marketing stunt of a lifetime during the opening ceremony. He literally
-  forced his way through the crowd to King Olav V, in order to present him with
-  his work of art, the Cormorant. Hans had asked for permission in advance, but
-  had been refused by the organisers. The King, on the other hand, was clearly
-  rather curious about the voice that rang out above the crowd, uttering the
-  words: "Excuse me King! Can I give you a cormorant?" The rest is history.
-dateModified: '2018-03-01T14:01:30.384Z'
-datePublished: '2018-03-01T14:01:31.359Z'
+  Lofoten's oldest tourist attractions. 
+dateModified: '2018-03-09T19:55:09.428Z'
+datePublished: '2018-03-09T19:55:11.049Z'
 title: The Blacksmith of Sund
 author: []
 publisher: {}
@@ -30,10 +20,11 @@ _type: Article
 # **The Blacksmith of Sund**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a70693e74aab4d9a2877404a41257c3ae884932.jpg)
 
-There is something reminiscent of a fairy tale about the story of one of Lofoten's oldest tourist attractions. Operations at the museum and the smithy have been kept as is since the two were established by Hans Gjertsen in 1947\. The official opening of the museum took place in 1964, but the groundwork was laid in 1963 with the opening of the E10 road (King Olav V's Way). As one of the pioneers of tourism in Lofoten, the blacksmith Hans Gjertsen carried out the marketing stunt of a lifetime during the opening ceremony. He literally forced his way through the crowd to King Olav V, in order to present him with his work of art, the Cormorant. Hans had asked for permission in advance, but had been refused by the organisers. The King, on the other hand, was clearly rather curious about the voice that rang out above the crowd, uttering the words: "Excuse me King! Can I give you a cormorant?" The rest is history.
+There is something reminiscent of a fairy tale about the story of one of Lofoten's oldest tourist attractions. 
 
 ---
 
+Operations at the museum and the smithy have been kept as is since the two were established by Hans Gjertsen in 1947\. The official opening of the museum took place in 1964, but the groundwork was laid in 1963 with the opening of the E10 road (King Olav V's Way). As one of the pioneers of tourism in Lofoten, the blacksmith Hans Gjertsen carried out the marketing stunt of a lifetime during the opening ceremony. He literally forced his way through the crowd to King Olav V, in order to present him with his work of art, the Cormorant. Hans had asked for permission in advance, but had been refused by the organisers. The King, on the other hand, was clearly rather curious about the voice that rang out above the crowd, uttering the words: "Excuse me King! Can I give you a cormorant?" The rest is history.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e8312b-10b8-498d-b1bf-3aa7e1168e28.jpg)
 
 Today, Tor-Vegard Mørkved is the Blacksmith of Sund. In the summer of 1987 he was taken in on trial as Hans Gjertsen's protégé. Hans soon realised that Tor-Vegard had the necessary guts and aptitude for the blacksmith trade, and as early as autumn 1987, he offered him an apprenticeship with the prospect of taking over the business at a later date. Hans was then 70 years old and had 40 years of experience behind him as the blacksmith of Sund. In June 1989, Tor-Vegard took over the running of the smithy and later the same year he passed his blacksmith's exams. Tor-Vegard and Hans worked together for several years; Hans Gjertsen was active almost right up until he passed away in 2006\. This close collaboration led to a seamless transition in the artistic and storytelling traditions at the smithy, with Tor-Vegard turning the continued operation of the smithy and museum into his lifework and calling.
