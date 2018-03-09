@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Welcome my dear friend!  I don’t  know you yet but at the end of the journey
+  Welcome my dear friend! I don’t  know you yet but at the end of the journey
   there might be rainbows unicorns and endless piles of gold, however patience
-  my friend.  We are not there yet ;)
-dateModified: '2018-03-01T11:41:48.097Z'
-datePublished: '2018-03-01T11:41:48.727Z'
+  my friend. We are not there yet ;)
+dateModified: '2018-03-09T19:58:52.135Z'
+datePublished: '2018-03-09T19:58:52.610Z'
 title: Work In Progress
 author: []
 publisher: {}
