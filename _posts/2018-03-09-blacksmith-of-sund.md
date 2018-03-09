@@ -6,8 +6,8 @@ keywords: []
 description: ''
 app_links: []
 title: ''
-datePublished: '2018-03-09T19:58:52.602Z'
-dateModified: '2018-03-09T19:58:52.135Z'
+datePublished: '2018-03-09T20:07:35.261Z'
+dateModified: '2018-03-09T20:07:35.115Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-blacksmith-of-sund.md
