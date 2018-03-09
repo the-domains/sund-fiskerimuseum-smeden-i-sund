@@ -13,8 +13,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.nrk.no/video/PS*59912'
 title: 'SE: Smeden i Sund'
-datePublished: '2018-03-09T20:07:35.287Z'
-dateModified: '2018-03-09T20:07:35.115Z'
+datePublished: '2018-03-09T20:13:32.172Z'
+dateModified: '2018-03-09T20:13:31.966Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-se-smeden-i-sund.md
