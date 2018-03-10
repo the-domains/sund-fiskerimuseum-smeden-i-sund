@@ -4,7 +4,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/520c3696b2d3c248ce57df6aedc52965e8cfd749.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/83de0be1a1bac29fe2a4be770cd03d21/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft1.0-1%2Fp200x200%2F26814732_1681816525172619_6358619518223265240_n.jpg%3Foh%3D728feefe19874fdab0e8dd93b2118481%26oe%3D5B4166C0
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/520c3696b2d3c248ce57df6aedc52965e8cfd749.jpg
       width: 200
       height: 200
       colors:
@@ -44,8 +44,8 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/SmedeniSund/'
-datePublished: '2018-03-09T20:13:32.170Z'
-dateModified: '2018-03-09T20:13:31.966Z'
+datePublished: '2018-03-10T09:49:28.455Z'
+dateModified: '2018-03-10T09:49:28.234Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-smeden-i-sund-74k-likes-kunst-smie-sund-fiskerimuseum.md
