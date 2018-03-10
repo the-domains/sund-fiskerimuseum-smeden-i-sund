@@ -13,8 +13,8 @@ description: Reportasjeseilas med siste fembøing til det ytterste Lofoten.
 app_links: []
 isBasedOnUrl: 'https://tv.nrk.no/serie/en-reise-i-arctandria/FOLA02033474/18-04-1974'
 title: NRK TV - Se En reise i "Arctandria"
-datePublished: '2018-03-09T20:13:32.170Z'
-dateModified: '2018-03-09T20:13:31.966Z'
+datePublished: '2018-03-10T10:03:50.217Z'
+dateModified: '2018-03-10T10:03:49.202Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-01-nrk-tv-se-en-reise-i-arctandria.md
