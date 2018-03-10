@@ -44,8 +44,8 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/SmedeniSund/'
-datePublished: '2018-03-10T09:49:28.455Z'
-dateModified: '2018-03-10T09:49:28.234Z'
+datePublished: '2018-03-10T09:56:18.061Z'
+dateModified: '2018-03-10T09:56:15.312Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-smeden-i-sund-74k-likes-kunst-smie-sund-fiskerimuseum.md
@@ -55,4 +55,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Smeden i Sund. 7.4K likes. Kunst smie Sund fiskerimuseum](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/26814732_1681816525172619_6358619518223265240_n.jpg?oh=728feefe19874fdab0e8dd93b2118481&oe=5B4166C0)
+![Smeden i Sund. 7.4K likes. Kunst smie Sund fiskerimuseum](https://s3-us-west-2.amazonaws.com/the-grid-img/p/520c3696b2d3c248ce57df6aedc52965e8cfd749.jpg)
