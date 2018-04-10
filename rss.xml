@@ -4,9 +4,9 @@
         <description><![CDATA[The Blacksmith Of Sund]]></description>
         <link>http://sundfiskerimuseum.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Mar 2018 10:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 07:55:35 GMT</lastBuildDate>
         <atom:link href="http://sundfiskerimuseum.no/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Mar 2018 10:03:57 GMT</pubDate>
+        <pubDate>Tue, 10 Apr 2018 07:55:34 GMT</pubDate>
         <item>
             <title><![CDATA[The Blacksmith of Sund]]></title>
             <description><![CDATA[<h1><strong>The Blacksmith of Sund</strong></h1>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a70693e74aab4d9a2877404a41257c3ae884932.jpg">,<p>There is something reminiscent of a fairy tale about the story of one of Lofoten's oldest tourist attractions. </p>]]></description>
@@ -62,6 +62,13 @@
             <link>https://www.facebook.com/SmedeniSund/</link>
             <guid isPermaLink="false">8176b76d-5606-4e07-bb94-7c1e81b82f47</guid>
             <pubDate>Fri, 09 Mar 2018 20:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smeden i Sund]]></title>
+            <description><![CDATA[<article><h1>Smeden i Sund</h1><p>Historien om en av Lofotens eldste turistattraksjoner har noe eventyraktig over seg. Driften ved museet og smia holdes i hevd slik det ble grunnlagt av Hans Gjertsen i 1947. Den offisielle &aring;pningen av museet var i 1964, men grunnlaget ble lagt i 1963 ved &aring;pningen av E10 (kong Olavs V vei).</p><img src="https://lofoten.info/sites/l/lofoten.info/files/cbis/6ebf49d62e7e74265cedcd51cec27f73.jpg?thumbnail=1100x1100"></article>]]></description>
+            <link>https://lofoten.info/flakstadoya/?Article=961</link>
+            <guid isPermaLink="false">cc14de92-217c-42d9-ad6b-309e4c529e4e</guid>
+            <pubDate>Tue, 10 Apr 2018 07:55:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
