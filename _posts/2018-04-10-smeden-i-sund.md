@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://lofoten.info/flakstadoya/?Article=961'
 title: Smeden i Sund
-datePublished: '2018-04-10T08:26:32.546Z'
-dateModified: '2018-04-10T08:26:31.784Z'
+datePublished: '2018-04-10T08:28:38.756Z'
+dateModified: '2018-04-10T08:28:38.033Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-10-smeden-i-sund.md
