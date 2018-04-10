@@ -7,8 +7,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://lofoten.info/flakstadoya/?Article=961'
 title: ''
-datePublished: '2018-04-10T08:17:36.282Z'
-dateModified: '2018-04-10T08:17:34.907Z'
+datePublished: '2018-04-10T08:17:58.431Z'
+dateModified: '2018-04-10T08:17:57.635Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-10-smeden-i-sund.md
