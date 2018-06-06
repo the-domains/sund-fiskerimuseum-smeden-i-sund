@@ -44,8 +44,8 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/SmedeniSund/'
-datePublished: '2018-03-10T10:03:22.336Z'
-dateModified: '2018-03-10T10:03:20.229Z'
+datePublished: '2018-06-06T12:24:02.621Z'
+dateModified: '2018-06-06T12:24:01.679Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-smeden-i-sund-74k-likes-kunst-smie-sund-fiskerimuseum.md
