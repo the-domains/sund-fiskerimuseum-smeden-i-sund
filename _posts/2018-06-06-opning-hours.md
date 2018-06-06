@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-06T12:23:18.656Z'
-datePublished: '2018-06-06T12:23:19.388Z'
+dateModified: '2018-06-06T12:24:01.679Z'
+datePublished: '2018-06-06T12:24:02.620Z'
 title: 'Opning Hours '
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-06-opning-hours.md
 starred: false
 datePublishedOriginal: '2018-06-06T12:23:19.388Z'
-sourcePath: _posts/2018-06-06-opning-hours.md
 _type: Blurb
 
 ---
