@@ -49,8 +49,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.tripadvisor.com/Attraction_Review-g612446-d4660290-Reviews-Smeden_i_Sund_Sund_Fiskerimuseum-Flakstadoy_Flakstad_Municipality_Lofoten_Islands.html
 title: Smeden i Sund/Sund Fiskerimuseum TripAdvisor
-datePublished: '2018-06-06T12:24:02.628Z'
-dateModified: '2018-06-06T12:24:01.679Z'
+datePublished: '2018-06-06T12:27:03.057Z'
+dateModified: '2018-06-06T12:27:02.480Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-smeden-i-sundsund-fiskerimuseum-tripadvisor.md
