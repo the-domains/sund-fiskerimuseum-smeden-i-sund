@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-06T12:26:12.649Z'
-datePublished: '2018-06-06T12:26:13.592Z'
+dateModified: '2018-06-06T12:27:02.480Z'
+datePublished: '2018-06-06T12:27:03.022Z'
 title: Opening Hours
 author: []
 publisher: {}
