@@ -18,8 +18,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://smedenisund.no'
 title: ''
-datePublished: '2018-04-10T11:16:52.594Z'
-dateModified: '2018-04-10T11:16:51.315Z'
+datePublished: '2018-06-06T12:24:02.627Z'
+dateModified: '2018-06-06T12:24:01.679Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-09-smeden-i-sund-sund-fiskerimuseum-smeden-former-myke-linj.md
