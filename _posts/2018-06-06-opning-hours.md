@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-06T12:24:01.679Z'
-datePublished: '2018-06-06T12:24:02.620Z'
-title: 'Opning Hours '
+dateModified: '2018-06-06T12:26:12.649Z'
+datePublished: '2018-06-06T12:26:13.592Z'
+title: Opening Hours
 author: []
 publisher: {}
 via: {}
@@ -13,18 +13,18 @@ datePublishedOriginal: '2018-06-06T12:23:19.388Z'
 _type: Blurb
 
 ---
-# Opning Hours 
+# _Opening Hours_
 
-### Monday/mandag 10:00-18:00
+### _Monday/mandag 10:00-18:00_
 
-### Tuesday/tirsdag 10:00-18:00
+### _Tuesday/tirsdag 10:00-18:00_
 
-### Wednesday/onsdag 10:00-18:00
+### _Wednesday/onsdag 10:00-18:00_
 
-### Thursday/torsdag 10:00-18:00
+### _Thursday/torsdag 10:00-18:00_
 
-### Friday/fredag 10:00-18:00
+### _Friday/fredag 10:00-18:00_
 
-### Saturday/lørdag 10:00-18:00
+### _Saturday/lørdag 10:00-18:00_
 
-### Sunday/søndag 10:00-18:00
+### _Sunday/søndag 10:00-18:00_
