@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2018-06-06T12:27:02.480Z'
-datePublished: '2018-06-06T12:27:03.022Z'
+description: Ticket Price
+dateModified: '2018-07-23T09:07:38.729Z'
+datePublished: '2018-07-23T09:07:40.386Z'
 title: Opening Hours
 author: []
 publisher: {}
@@ -28,3 +28,12 @@ _type: Blurb
 ### _Saturday/lørdag 10:00-18:00_
 
 ### _Sunday/søndag 10:00-18:00_
+
+Ticket Price
+
+Voksen / Adult : 100,- NOK  
+Barn 7-16 år / Children 7-16 Years Old: 20,- NOK
+
+Barn under 7 år / Children 0-7 Years old: Free
+
+No Senior or student discount (Not State funded museum)
