@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Ticket Price
-dateModified: '2018-07-23T09:07:38.729Z'
-datePublished: '2018-07-23T09:07:40.386Z'
+description: 'TICKET SALE CLOSES AT 17:30'
+dateModified: '2018-07-23T09:26:26.115Z'
+datePublished: '2018-07-23T09:26:27.836Z'
 title: Opening Hours
 author: []
 publisher: {}
@@ -28,6 +28,8 @@ _type: Blurb
 ### _Saturday/lørdag 10:00-18:00_
 
 ### _Sunday/søndag 10:00-18:00_
+
+**TICKET SALE CLOSES AT 17:30**
 
 Ticket Price
 
