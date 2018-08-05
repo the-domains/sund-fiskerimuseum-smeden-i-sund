@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'TICKET SALE CLOSES AT 17:30'
-dateModified: '2018-07-23T09:26:26.115Z'
-datePublished: '2018-07-23T09:26:27.836Z'
+description: 'TICKET SALE CLOSES AT 16:00'
+dateModified: '2018-08-05T23:02:41.188Z'
+datePublished: '2018-08-05T23:02:42.256Z'
 title: Opening Hours
 author: []
 publisher: {}
@@ -15,21 +15,21 @@ _type: Blurb
 ---
 # _Opening Hours_
 
-### _Monday/mandag 10:00-18:00_
+### _Monday/mandag 10:00-16:00_
 
-### _Tuesday/tirsdag 10:00-18:00_
+### _Tuesday/tirsdag 10:00-16:00_
 
-### _Wednesday/onsdag 10:00-18:00_
+### _Wednesday/onsdag 10:00-16:00_
 
-### _Thursday/torsdag 10:00-18:00_
+### _Thursday/torsdag 10:00-16:00_
 
-### _Friday/fredag 10:00-18:00_
+### _Friday/fredag 10:00-16:00_
 
-### _Saturday/lørdag 10:00-18:00_
+### _Saturday/lørdag 10:00-16:00_
 
-### _Sunday/søndag 10:00-18:00_
+### _Sunday/søndag 10:00-16:00_
 
-**TICKET SALE CLOSES AT 17:30**
+**TICKET SALE CLOSES AT 16:00**
 
 Ticket Price
 
