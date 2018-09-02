@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There is something reminiscent of a fairy tale about the story of one of
   Lofoten's oldest tourist attractions. 
-dateModified: '2018-06-06T12:27:02.480Z'
-datePublished: '2018-06-06T12:27:03.065Z'
+dateModified: '2018-09-02T19:20:24.816Z'
+datePublished: '2018-09-02T19:20:25.367Z'
 title: The Blacksmith of Sund
 author: []
 publisher: {}
