@@ -10,8 +10,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://lofoten.info/flakstadoya/?Article=961'
 title: ''
-datePublished: '2018-06-06T12:27:03.033Z'
-dateModified: '2018-06-06T12:27:02.480Z'
+datePublished: '2018-09-02T19:20:25.287Z'
+dateModified: '2018-09-02T19:20:24.816Z'
 via:
   url: 'https://lofoten.info/Museum/?Article=961'
   name: Lofoten.info
