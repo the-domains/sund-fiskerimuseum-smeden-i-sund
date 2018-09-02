@@ -4,15 +4,15 @@ description: >-
   The Summer season 2018 is over and the Museum have closed, however the
   Blacksmith is still around! You can visit he´s workshop if your looking to buy
   he´s artwork.
-dateModified: '2018-09-02T19:19:32.608Z'
-datePublished: '2018-09-02T19:19:33.265Z'
+dateModified: '2018-09-02T19:20:24.816Z'
+datePublished: '2018-09-02T19:20:25.225Z'
 title: When can you visit?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-09-02-when-can-you-visit.md
 starred: false
 datePublishedOriginal: '2018-09-02T19:19:33.265Z'
-sourcePath: _posts/2018-09-02-when-can-you-visit.md
 _type: Blurb
 
 ---
