@@ -4,8 +4,8 @@ description: >-
   Welcome my dear friend! I don’t  know you yet but at the end of the journey
   there might be rainbows unicorns and endless piles of gold, however patience
   my friend. We are not there yet ;)
-dateModified: '2018-06-06T12:24:01.679Z'
-datePublished: '2018-06-06T12:24:02.628Z'
+dateModified: '2018-09-02T19:20:24.816Z'
+datePublished: '2018-09-02T19:20:25.316Z'
 title: Work In Progress
 author: []
 publisher: {}
