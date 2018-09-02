@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'TICKET SALE CLOSES AT 15:30'
-dateModified: '2018-08-30T13:34:41.490Z'
-datePublished: '2018-08-30T13:34:42.506Z'
+description: 'TICKET SALE CLOSES AT —:—'
+dateModified: '2018-09-02T19:09:54.670Z'
+datePublished: '2018-09-02T19:09:56.506Z'
 title: Opening Hours
 author: []
 publisher: {}
@@ -23,15 +23,15 @@ _type: Blurb
 
 ### _Thursday/torsdag Closed/Stengt_
 
-### _Friday/fredag 10:00-16:00_
+### _Friday/fredag Closed/Stengt_
 
 ### _Saturday/lørdag Closed/Stengt_
 
 ### _Sunday/søndag Closed/Stengt_
 
-**TICKET SALE CLOSES AT 15:30**
+**TICKET SALE CLOSES AT ---:---**
 
-Ticket Price
+Ticket Price Summer season 2018
 
 Voksen / Adult : 100,- NOK  
 Barn 7-16 år / Children 7-16 Years Old: 20,- NOK
